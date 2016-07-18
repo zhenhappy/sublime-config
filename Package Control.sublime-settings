@@ -1,16 +1,30 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"BracketHighlighter",
+		"Codecs33",
+		"Color Highlighter",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"DocBlockr",
 		"Emmet",
+		"ESLint",
 		"Git",
+		"JsFormat",
+		"LiveReloadMake",
+		"LiveStyle",
 		"Package Control",
 		"RailsCasts Colour Scheme",
+		"ReactJS",
 		"Sass",
+		"SideBarEnhancements",
 		"SublimeERB",
-		"SyncedSideBar"
+		"SyncedSideBar",
+		"Theme - Dark Material"
 	]
 }
